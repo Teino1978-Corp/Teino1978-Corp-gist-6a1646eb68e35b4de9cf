@@ -1,0 +1,19 @@
+(See http://xprogramming.com/articles/deliver-working-software-frequently/ and http://leanblitzconsulting.com/14-principles-of-the-toyota-way/)
+
+Are you not getting everything you take on finished? Then take on less.
+"Use pull systems to avoid overproduction"
+
+Are there defects in your code? Then test it sooner and better. Try pair programming.
+"Level out the workflow. Work like the tortoise, not the hare" and “Use visual controls so no problems are hidden.”
+
+Is your code hard to work with? Then refactor it as you go.
+"Build a culture of stopping to fix problems, to get quality right the first time"
+
+Is it hard to integrate? Then integrate smaller pieces more frequently.
+"Level out the workflow. Work like the tortoise, not the hare"
+
+After you give it to them, do the customers dislike it? Then talk with them more before you start.
+“Create a continuous process flow to bring problems to the surface.”
+
+Are you still not delivering solidly? Then think about how to improve every week or two.
+“Become a learning organization through relentless reflection and continuous improvement.”
